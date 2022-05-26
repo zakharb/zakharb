@@ -1,5 +1,5 @@
 linkedin.com/in/zakharb
 
-Full stack software developer with a background in cyber security and 10+ years experience in Computer Science.
+Full stack Software Engineer with a background in Cyber Security
 
 Python | Asyncio | FastAPI | JavaScript
