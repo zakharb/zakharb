@@ -40,8 +40,12 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zakharb&show_icons=true&locale=en&layout=compact" alt="ovi"/>
 
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB)
+<p align="center">
 
+  <a href="https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB"></a>
+  <img src="https://novatorem.bgstatic.vercel.app/api/spotify"/>
+
+</p>
 
 <p align="center">
   <img height=100 src="python.gif" alt="animated" />
