@@ -42,7 +42,7 @@
 
 <p align="center">
 
-  <a href="https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB"></a>
+  <a href="https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB">
   <img src="https://novatorem.bgstatic.vercel.app/api/spotify"/>
 
 </p>
