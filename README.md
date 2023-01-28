@@ -15,8 +15,9 @@
 </p>
 
 <p align="center">
-	hi im Zakhar
-	<br>full stack hacking pythonist
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+im+Zakhar!;full+stack+hacking+pythonist+%3A)" alt="Typing SVG" /></a>
+
 </p>
 
 
