@@ -25,7 +25,6 @@
 
 <p align="center">
 	<img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3670a0"/>
-	<br>
 	<img src="https://img.shields.io/badge/Code-AsyncIO-informational?style=flat&logo=python&color=3670a0"/>
 	<img src="https://img.shields.io/badge/Code-Microservices-informational?style=flat&logo=python&color=3670a0"/>
 	<br>
