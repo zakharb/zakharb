@@ -31,7 +31,6 @@
 	<br>
 	<img src="https://img.shields.io/badge/FW-FastAPI-informational?style=flat&logo=fastapi&color=009688"/>
 	<img src="https://img.shields.io/badge/FW-Flask-informational?style=flat&logo=flask&color=7e7e7e"/>
-	<br>
 	<img src="https://img.shields.io/badge/HTML-Javascript-informational?style=flat&logo=javascript&color=f7df1e"/>
 	<img src="https://img.shields.io/badge/HTML-Bootstrap-informational?style=flat&logo=bootstrap&color=7952b3"/>
 	<br>
