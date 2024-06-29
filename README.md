@@ -1,18 +1,8 @@
 
 <p align="center">
   <a href="https://zakharb.github.io/">
-	<img src="3espace.png" width="100"/>
+	<img src="navbar-logo.png" width="100"/>
 	<br>
-
-  <a href="https://www.linkedin.com/in/zakharb/">
-	<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
-  <a href="mailto:zakharbengart@gmail.com">
-	<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-
-  <a href="https://t.me/zakharbengart">
-	<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-
 </p>
 
 <p align="center">
