@@ -38,10 +38,3 @@
 
 </p>
 
-<p align="center">
-  <img height=100 src="python.gif" alt="animated" />
-  <img height=100 src="fastapi.svg" alt="animated" />
-  <img height=100 src="js.gif" alt="animated" />
-  <img height=100 src="kali.png" alt="animated" />
-  <img height=100 src="bs.gif" alt="animated" />
-</p>
